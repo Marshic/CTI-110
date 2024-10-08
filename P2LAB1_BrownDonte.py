@@ -13,7 +13,7 @@ print()
 
 diameter = radius * 2
 circum = radius * 2 * pi
-area = pi * radius ** 2
+area = pi * math.pow (radius, 2)
 
 # Display results to user
 
